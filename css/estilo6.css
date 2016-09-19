@@ -1,0 +1,44 @@
+#uno{
+    background: #1fb91f
+}
+
+#dos{
+    background: #1f5fc4
+}
+
+#tres{
+    background: #d31860
+}
+
+table{
+    background: #1a68e2;
+
+}
+
+h1{
+    color: #0ec916;
+    background:#0f27de
+
+}
+
+a[href^="http//:"]{
+
+    background: #db1643;
+    color:#2eba22;
+    font-size: 20;
+}
+
+a[href$=".com"]{
+    color: #2b1dd1;
+}
+
+h2[class="estro"]{
+    background:#b2d011
+}
+
+h2{
+    background: #15d324
+}
+p[class="texto"]{
+    color:#e51263
+}
